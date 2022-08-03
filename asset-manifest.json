@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mooncrestwebsite/static/css/main.2f2fa27b.chunk.css",
+    "main.js": "/mooncrestwebsite/static/js/main.85e5cd45.chunk.js",
+    "main.js.map": "/mooncrestwebsite/static/js/main.85e5cd45.chunk.js.map",
+    "runtime-main.js": "/mooncrestwebsite/static/js/runtime-main.fee08f10.js",
+    "runtime-main.js.map": "/mooncrestwebsite/static/js/runtime-main.fee08f10.js.map",
+    "static/js/2.3763ecc5.chunk.js": "/mooncrestwebsite/static/js/2.3763ecc5.chunk.js",
+    "static/js/2.3763ecc5.chunk.js.map": "/mooncrestwebsite/static/js/2.3763ecc5.chunk.js.map",
+    "index.html": "/mooncrestwebsite/index.html",
+    "static/css/main.2f2fa27b.chunk.css.map": "/mooncrestwebsite/static/css/main.2f2fa27b.chunk.css.map",
+    "static/js/2.3763ecc5.chunk.js.LICENSE.txt": "/mooncrestwebsite/static/js/2.3763ecc5.chunk.js.LICENSE.txt",
+    "static/media/pdp_icon.f197e704.jpeg": "/mooncrestwebsite/static/media/pdp_icon.f197e704.jpeg",
+    "static/media/screenshot_dark1.bd94294a.jpeg": "/mooncrestwebsite/static/media/screenshot_dark1.bd94294a.jpeg",
+    "static/media/screenshot_dark2.56864f1b.jpeg": "/mooncrestwebsite/static/media/screenshot_dark2.56864f1b.jpeg",
+    "static/media/screenshot_light1.1f2388de.jpeg": "/mooncrestwebsite/static/media/screenshot_light1.1f2388de.jpeg",
+    "static/media/screenshot_light2.521fa842.jpeg": "/mooncrestwebsite/static/media/screenshot_light2.521fa842.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee08f10.js",
+    "static/js/2.3763ecc5.chunk.js",
+    "static/css/main.2f2fa27b.chunk.css",
+    "static/js/main.85e5cd45.chunk.js"
+  ]
+}
