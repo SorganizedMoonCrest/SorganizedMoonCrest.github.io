@@ -1,0 +1,70 @@
+.pdp__container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.app__about {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+.app__icon {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    height: 10rem;
+    width: 10rem;
+    overflow: hidden;
+    box-shadow: 10px 10px 5px var(--color-shadow);
+}
+
+.app__screenshots {
+    border-radius: 1rem;
+    overflow: hidden;
+    width: 10rem;
+    height: 20rem;
+}
+
+.screenshot__image {
+    height: auto;
+    overflow: hidden;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .pdp__container {
+        margin-bottom: 2rem;
+    }
+
+    .app__icon {
+        margin: auto;
+    }
+
+    .app__about {
+        margin: 1rem 0 1.5rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .pdp__container {
+        margin-bottom: 2rem;
+    }
+    
+    .app__about {
+        text-align: center;
+    }
+
+    .app__icon {
+        margin: auto;
+    }
+
+    .app__about p {
+        margin: 1.5rem 0;
+    }
+}
